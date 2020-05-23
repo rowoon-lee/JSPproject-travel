@@ -62,9 +62,9 @@
 </head>
 <body>
 	<div id="loginall">
-		<img src="../abcImg/mainLogo3.png" alt="로고" id="loginlogo"/>
+		<img src="../travelimg/mainLogo3.png" alt="로고" id="loginlogo"/>
 		
-		<form action="../abc/loginOk.jsp">
+		<form action="../project/loginOk.jsp">
 			<div id="loginForm">
 				<input type="text" name = "id" id="idLogin" placeholder="아이디"/>
 				<input type="password" name = "pw" id="pwLogin" placeholder="비밀번호"/>
